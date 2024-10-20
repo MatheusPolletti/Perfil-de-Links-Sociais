@@ -13,20 +13,18 @@ body
 
     background-color: hsl(0, 0%, 8%);
 
-    height: 100vh;
+    min-height: 100vh;
+
+    margin: 0;
 }
 
 body > .container
 {
-    margin-top: 10%;
-    margin-bottom: 10%;
-
     background-color: hsl(0, 0%, 12%);
 
     border-radius: 2%;
 
-    height: 90vh;
-    width: 30vw; 
+    padding: 1rem;
 }
 
 body > .container .apresentacao
