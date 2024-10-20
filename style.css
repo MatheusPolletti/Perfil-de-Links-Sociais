@@ -95,32 +95,3 @@ body > .container .redesSociais a:hover
 
     color: #000000;
 }
-
-@media (max-width: 764px)
-{
-    body > .container
-    {
-        margin-top: -50%;
-
-        width: 85vw;
-        height: 55vh;
-    }
-
-    body > .container .apresentacao h1
-    {
-        font-size: 23px;
-    }
-
-    body > .container .apresentacao p
-    {
-        font-size: 13px;
-    
-        margin-top: 8%;
-        margin-bottom: 10%;
-    }
-
-    body > .container .redesSociais a
-    {
-        margin-bottom: 5%;
-    }
-}
