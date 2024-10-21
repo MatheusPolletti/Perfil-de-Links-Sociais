@@ -25,6 +25,8 @@ body > .container
     border-radius: 2%;
 
     padding: 1rem;
+
+    max-height: 80%;
 }
 
 body > .container .apresentacao
